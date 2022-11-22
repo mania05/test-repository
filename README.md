@@ -1,10 +1,3 @@
-# test-repository
-This is a test description
+# My very first repo
+Victor is a good Data Scientist
 
-Test respository edited 
-
-Test respository edited 
-
-Again
-
-This is another example
